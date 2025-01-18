@@ -1,3 +1,4 @@
+![Screenshot 2025-01-18 224147](https://github.com/user-attachments/assets/24efb660-699c-4912-81c6-fc40385b314b)
 # CODTECH-TASK2
 
 # BMI Tracker App
